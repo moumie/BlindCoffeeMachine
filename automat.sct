@@ -738,7 +738,7 @@
       </children>
       <styles xsi:type="notation:ConnectorStyle" xmi:id="_Pwkh8ScyEeaKuoRJ3kMzQQ" lineColor="4210752"/>
       <styles xsi:type="notation:FontStyle" xmi:id="_Pwkh8ycyEeaKuoRJ3kMzQQ" fontName="Verdana"/>
-      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_Pwkh8icyEeaKuoRJ3kMzQQ" points="[27, -25, -168, 120]$[174, -160, -21, -15]$[175, -160, -20, -15]"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_Pwkh8icyEeaKuoRJ3kMzQQ" points="[35, -25, -160, 105]$[165, -118, -30, 12]$[175, -122, -20, 8]"/>
       <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PwuS8CcyEeaKuoRJ3kMzQQ" id="(0.8771428571428571,0.5283018867924528)"/>
       <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PwuS8ScyEeaKuoRJ3kMzQQ" id="(0.23300970873786409,0.3018867924528302)"/>
     </edges>
